@@ -1,5 +1,5 @@
 # algorithms_projects
-Udacity 자료구조 알고리즘 코스의 알고리즘 프로젝트입니다.
+Udacity 자료구조&알고리즘 코스의 알고리즘 프로젝트입니다.
 총 7가지 문제로 구성이 되어있고, 주어진 문제에 맞추어 알고리즘을 구현하는 문제입니다.
 (binary search, heapify, trie, mergesort, quicksort, divide and conquer 등의 개념을 다룹니다.)
 
